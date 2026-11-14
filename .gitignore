@@ -1,0 +1,16 @@
+# API key (jangan pernah di-commit)
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
